@@ -1,4 +1,4 @@
-# AWS-IAM-Access-Control
+# AWS IAM Access Control
 
 A structured **AWS IAM (Identity and Access Management)** setup to efficiently manage users, groups, and permissions in AWS.  
 This project demonstrates **role-based access control** 🛡️, security best practices 🔐, and visually documents the architecture with diagrams 📊.
