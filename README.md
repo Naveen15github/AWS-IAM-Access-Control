@@ -65,9 +65,6 @@ By organizing users into groups and attaching policies at the group level, this 
 ### 📜 Policy Attachment
 ![Policy Attachment Screenshot](https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/f470ea505e27fd8c979e10a43a5a0adba2d1b6a1/Screenshot%20(14).png)     ![Policy Attachment Screenshot](https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/f470ea505e27fd8c979e10a43a5a0adba2d1b6a1/Screenshot%20(13).png)
 
-
-> 🖼️ Replace the URLs above with screenshots from your AWS console.
-
 ---
 
 ## 🚀 Getting Started
