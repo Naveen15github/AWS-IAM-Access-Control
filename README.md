@@ -49,7 +49,7 @@ By organizing users into groups and attaching policies at the group level, this 
 
 ## 🗺️ Architecture Diagram
 
-![IAM Architecture Diagram]((https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/03053428b6077333d2992edf9a8f820a7a9358ab/IMG_4843.PNG)g)
+![IAM Architecture Diagram](https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/03053428b6077333d2992edf9a8f820a7a9358ab/IMG_4843.PNG)
 > 🖼️ Replace the URL above with your own architecture diagram image hosted in your repo or on an image hosting service.
 
 ---
