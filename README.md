@@ -57,13 +57,14 @@ By organizing users into groups and attaching policies at the group level, this 
 ## 🖼️ Screenshots
 
 ### 👥 Users
-![Admins Group Screenshot](https://example.com/admins-group.png)
+![Admins Group Screenshot](https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/f470ea505e27fd8c979e10a43a5a0adba2d1b6a1/Screenshot%20(15).png)
 
 ### 👨‍💻 Groups
-![Developers Group Screenshot](https://example.com/developers-group.png)
+![Developers Group Screenshot](https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/f470ea505e27fd8c979e10a43a5a0adba2d1b6a1/Screenshot%20(16).png)
 
 ### 📜 Policy Attachment
-![Policy Attachment Screenshot](https://example.com/policy-attachment.png)
+![Policy Attachment Screenshot]((https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/f470ea505e27fd8c979e10a43a5a0adba2d1b6a1/Screenshot%20(14).png)(https://github.com/Naveen15github/AWS-IAM-Access-Control/blob/f470ea505e27fd8c979e10a43a5a0adba2d1b6a1/Screenshot%20(13).png))
+
 
 > 🖼️ Replace the URLs above with screenshots from your AWS console.
 
@@ -106,7 +107,5 @@ To replicate this IAM setup:
 ✨ **Strengthening the foundations of Cloud Security & Access Management** 🚀
 
 ---
-
-[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)](https://aws.amazon.com/) [![IAM](https://img.shields.io/badge/IAM-Security-blue?logo=amazon-aws)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html) [![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 #AWS #IAM #CloudComputing #DevOps #AccessControl #LearningInPublic
