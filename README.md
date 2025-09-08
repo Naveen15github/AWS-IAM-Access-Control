@@ -56,10 +56,10 @@ By organizing users into groups and attaching policies at the group level, this 
 
 ## 🖼️ Screenshots
 
-### 👥 Admins Group
+### 👥 Users
 ![Admins Group Screenshot](https://example.com/admins-group.png)
 
-### 👨‍💻 Developers Group
+### 👨‍💻 Groups
 ![Developers Group Screenshot](https://example.com/developers-group.png)
 
 ### 📜 Policy Attachment
